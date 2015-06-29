@@ -212,7 +212,23 @@ type MutableCircle() =
 
 
 
+/// More Techniques to Implement Objects
+/// Combining Object Expressions and Function Parameters
+/// An object interface type that consumes characters and strings
+type ITextOutputSink =
+    /// When implemented, writes one Unicode string to the sink
+    abstract WriteChar : char -> unit
+    /// When implemented, writes one Unicode string to the sink
+    abstract WriteString : string -> unit
 
+/// Returns an object that implements ITextOutputSink by using writeCharFunction.
+let simpleOutputSink writeCharFunction =
+    {new ITextOutputSink with
+        member x.WriteChar(c) = writeCharFunction c
+        member x.WriteString(s) = s |> String.iter x.WriteChar}
+
+let stringBuilderOutputSink (buf : System.Text.StringBuilder) =
+    simpleOutputSink(fun c -> buf.Append(c) |> ignore)
 
 printfn "This is Practice code for 'Expert F# 3.0, Chapter 6 - Programming With Objects'"
 printfn "Last Updated : %s" last_update_date

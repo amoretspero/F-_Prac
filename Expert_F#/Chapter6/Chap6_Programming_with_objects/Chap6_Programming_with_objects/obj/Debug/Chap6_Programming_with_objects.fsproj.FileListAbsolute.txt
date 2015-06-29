@@ -6,3 +6,12 @@ C:\Users\Jiung\Documents\F#\Practice\Expert_F#\Chapter6\Chap6_Programming_with_o
 C:\Users\Jiung\Documents\F#\Practice\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\FSharp.Core.xml
 C:\Users\Jiung\Documents\F#\Practice\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\obj\Debug\Chap6_Programming_with_objects.exe
 C:\Users\Jiung\Documents\F#\Practice\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\obj\Debug\Chap6_Programming_with_objects.pdb
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\Chap6_Programming_with_objects.exe.config
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\Chap6_Programming_with_objects.XML
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\Chap6_Programming_with_objects.exe
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\Chap6_Programming_with_objects.pdb
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\FSharp.Core.dll
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\FSharp.Core.xml
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\bin\Debug\ko\FSharp.Core.resources.dll
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\obj\Debug\Chap6_Programming_with_objects.exe
+D:\F#\FSharp_Prac\Expert_F#\Chapter6\Chap6_Programming_with_objects\Chap6_Programming_with_objects\obj\Debug\Chap6_Programming_with_objects.pdb

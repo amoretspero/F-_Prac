@@ -2,6 +2,23 @@
 <doc>
 <assembly><name>Chap6_Programming_with_objects</name></assembly>
 <members>
+<member name="M:File1.ITextOutputSink.WriteString(System.String)">
+<summary>
+ When implemented, writes one Unicode string to the sink
+</summary>
+</member>
+<member name="M:File1.ITextOutputSink.WriteChar(System.Char)">
+<summary>
+ When implemented, writes one Unicode string to the sink
+</summary>
+</member>
+<member name="T:File1.ITextOutputSink">
+<summary>
+ More Techniques to Implement Objects
+ Combining Object Expressions and Function Parameters
+ An object interface type that consumes characters and strings
+</summary>
+</member>
 <member name="">
 
 </member>
@@ -326,6 +343,14 @@
 <member name="T:File1.Vector2D_type">
 <summary>
  Two-dimensional vectors
+</summary>
+</member>
+<member name="">
+
+</member>
+<member name="M:File1.simpleOutputSink(Microsoft.FSharp.Core.FSharpFunc{System.Char,Microsoft.FSharp.Core.Unit})">
+<summary>
+ Returns an object that implements ITextOutputSink by using writeCharFunction.
 </summary>
 </member>
 <member name="">

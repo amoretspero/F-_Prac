@@ -6,3 +6,12 @@ C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer
 C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\FSharp.Core.xml
 C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.exe
 C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.pdb
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.exe.config
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.XML
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.exe
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.pdb
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\FSharp.Core.dll
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\FSharp.Core.xml
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\ko\FSharp.Core.resources.dll
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.exe
+D:\F#\FSharp_Prac\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.pdb
