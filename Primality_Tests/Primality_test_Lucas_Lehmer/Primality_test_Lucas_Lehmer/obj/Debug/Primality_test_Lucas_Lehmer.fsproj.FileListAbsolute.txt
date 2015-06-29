@@ -1,0 +1,8 @@
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.exe.config
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.XML
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.exe
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\Primality_test_Lucas_Lehmer.pdb
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\FSharp.Core.dll
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\bin\Debug\FSharp.Core.xml
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.exe
+C:\Users\Jiung\Documents\F#\Practice\Primality_Tests\Primality_test_Lucas_Lehmer\Primality_test_Lucas_Lehmer\obj\Debug\Primality_test_Lucas_Lehmer.pdb
